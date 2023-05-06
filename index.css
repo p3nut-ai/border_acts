@@ -1,0 +1,25 @@
+body {
+  padding: 0 356px;
+}
+
+.border-example {
+  height: 150px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.border-dashed {
+  border: 1px dashed #000;
+}
+
+.border-dotted {
+  border: 1px dotted #000;
+}
+
+.border-solid {
+  border: 1px solid #000;
+}
+
+.border-double {
+  border: 3px double #000;
+}
